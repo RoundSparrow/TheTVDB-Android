@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TheTVDB.iml" filepath="$PROJECT_DIR$/TheTVDB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TheTVDB-Android.iml" filepath="$PROJECT_DIR$/TheTVDB-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheTVDB-Android_RoundSparrow.iml" filepath="$PROJECT_DIR$/TheTVDB-Android_RoundSparrow.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
-
